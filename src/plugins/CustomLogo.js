@@ -8,9 +8,10 @@
  * @author nz_prism
  *
  * @help CustomLogo.js
- * ver. 1.0.0
+ * ver. 1.0.1
  * 
  * [History]
+ * 10/20/2025 Updated for RPG Maker MZ by Paradise Union
  * 05/12/2023 1.0.0 Released
  * 
  * This plugin shows RPG Maker logo and other images at the start of the game,
